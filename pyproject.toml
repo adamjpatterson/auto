@@ -30,9 +30,9 @@ dependencies = [
   "tiktoken>=0.7.0",
 ]
 [project.urls]
-Documentation = "https://github.com/far-analytics/auto#readme"
-Issues = "https://github.com/far-analytics/auto/issues"
-Source = "https://github.com/far-analytics/auto"
+Documentation = "https://github.com/adamjpatterson/auto#readme"
+Issues = "https://github.com/adamjpatterson/auto/issues"
+Source = "https://github.com/adamjpatterson/auto"
 
 [tool.hatch.version]
 path = "src/auto/__about__.py"
